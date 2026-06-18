@@ -1,4 +1,4 @@
-# kernel-online-sequential-echo-state-network-with-meanshift-based-filtering
+# kernel-online-sequential-echo-state-network-with-meanshift-based filtering
 
 > **Status:**  **Code Coming Soon!** > The complete source code and implementation details will be released after the peer-review and revision process is finalized. Stay tuned!
 
